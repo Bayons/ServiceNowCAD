@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Loaner Request">c7f90b27a8a281107f4417e33ae5a59e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 14:01:17</sys_created_on>
+        <sys_id>9bf98b27a8a281107f4417e33ae5a5e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_9bf98b27a8a281107f4417e33ae5a5e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:01:17</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</application>
+        <file_path/>
+        <instance_id>539a97fa1bea4150d9c41f861a4bcb8c</instance_id>
+        <instance_name>adf-mar-984-dev-005</instance_name>
+        <name>sc_cat_item_catalog_9bf98b27a8a281107f4417e33ae5a5e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Loaner Request">c7f90b27a8a281107f4417e33ae5a59e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-05 14:01:17</sys_created_on><sys_id>9bf98b27a8a281107f4417e33ae5a5e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package><sys_policy/><sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope><sys_update_name>sc_cat_item_catalog_9bf98b27a8a281107f4417e33ae5a5e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-05 14:01:17</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>621669245</payload_hash>
+        <record_name>Service Catalog.Loaner Request</record_name>
+        <reverted_from/>
+        <source>c1ce8d57a86241107f4417e33ae5a512</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 14:01:17</sys_created_on>
+        <sys_id>17f98b27a8a281107f4417e33ae5a5e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ffa079dc70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:01:17</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>9bf98b2775a281103c3accf36ccd1de7</update_guid>
+        <update_guid_history>9bf98b2775a281103c3accf36ccd1de7:621669245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Loaner Request">203acf27a8a281107f4417e33ae5a54f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 14:02:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2b876d5b67134dbca0ba90c258fbe499</sys_id>
+        <sys_metadata>9bf98b27a8a281107f4417e33ae5a5e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope>
+        <sys_scope_delete display_value="">01b736e592b644ca9704f39615890c41</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_9bf98b27a8a281107f4417e33ae5a5e5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_9bf98b27a8a281107f4417e33ae5a5e5">17f98b27a8a281107f4417e33ae5a5e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:02:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

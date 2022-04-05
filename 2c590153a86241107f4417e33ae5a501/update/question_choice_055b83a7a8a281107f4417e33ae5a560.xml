@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>0</order>
+        <published_ref/>
+        <question display_value="What would you like to reserve?">415b83a7a8a281107f4417e33ae5a55a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 14:07:08</sys_created_on>
+        <sys_id>055b83a7a8a281107f4417e33ae5a560</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope>
+        <sys_update_name>question_choice_055b83a7a8a281107f4417e33ae5a560</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:07:08</sys_updated_on>
+        <text>Laptop</text>
+        <value>cmdb_ci_computer</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=055b83a7a8a281107f4417e33ae5a560"/>
+</record_update>

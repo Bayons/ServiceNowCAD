@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>3</order>
+        <published_ref display_value="Santa Clara">efb98727a8a281107f4417e33ae5a52e</published_ref>
+        <question display_value="Depot">e76b47a7a8a281107f4417e33ae5a57a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 14:07:35</sys_created_on>
+        <sys_id>776b47a7a8a281107f4417e33ae5a596</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Santa Clara</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope>
+        <sys_update_name>question_choice_776b47a7a8a281107f4417e33ae5a596</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:07:35</sys_updated_on>
+        <text>Santa Clara</text>
+        <value>sc</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=776b47a7a8a281107f4417e33ae5a596"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</application>
+        <file_path/>
+        <instance_id>539a97fa1bea4150d9c41f861a4bcb8c</instance_id>
+        <instance_name>adf-mar-984-dev-005</instance_name>
+        <name>question_choice_776b47a7a8a281107f4417e33ae5a596</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>3</order><published_ref display_value="Santa Clara">efb98727a8a281107f4417e33ae5a52e</published_ref><question display_value="Depot">e76b47a7a8a281107f4417e33ae5a57a</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-05 14:07:35</sys_created_on><sys_id>776b47a7a8a281107f4417e33ae5a596</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Santa Clara</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package><sys_policy/><sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope><sys_update_name>question_choice_776b47a7a8a281107f4417e33ae5a596</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-05 14:07:35</sys_updated_on><text>Santa Clara</text><value>sc</value></question_choice><fx_price action="delete_multiple" query="id=776b47a7a8a281107f4417e33ae5a596"/></record_update>]]></payload>
+        <payload_hash>-655156542</payload_hash>
+        <record_name>Santa Clara</record_name>
+        <reverted_from/>
+        <source>c1ce8d57a86241107f4417e33ae5a512</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 14:07:35</sys_created_on>
+        <sys_id>3f6b47a7a8a281107f4417e33ae5a598</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ffa0d63f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:07:35</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>b36b47a7b1a281101f25c1bfa34ae198</update_guid>
+        <update_guid_history>b36b47a7b1a281101f25c1bfa34ae198:-655156542</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Santa Clara">2beb83e7a8a281107f4417e33ae5a540</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-05 14:09:46</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>48476db6e5e149fc91efa52c9304a0c4</sys_id>
+        <sys_metadata>776b47a7a8a281107f4417e33ae5a596</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Santa Clara</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package>
+        <sys_parent display_value="">e76b47a7a8a281107f4417e33ae5a57a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope>
+        <sys_scope_delete display_value="">01b736e592b644ca9704f39615890c41</sys_scope_delete>
+        <sys_update_name>question_choice_776b47a7a8a281107f4417e33ae5a596</sys_update_name>
+        <sys_update_version display_value="question_choice_776b47a7a8a281107f4417e33ae5a596">3f6b47a7a8a281107f4417e33ae5a598</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-05 14:09:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

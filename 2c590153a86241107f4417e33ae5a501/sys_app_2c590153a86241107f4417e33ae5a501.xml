@@ -29,15 +29,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-04 10:00:38</sys_created_on>
         <sys_id>2c590153a86241107f4417e33ae5a501</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-04 15:22:04</sys_updated_on>
+        <sys_updated_on>2022-04-05 10:44:27</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>7.0.1</version>
     </sys_app>
 </record_update>

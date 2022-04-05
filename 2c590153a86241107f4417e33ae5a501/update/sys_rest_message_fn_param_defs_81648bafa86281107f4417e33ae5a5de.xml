@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>lang</name>
+        <order>300</order>
+        <rest_message_function display_value="Default GET">5414c7efa86281107f4417e33ae5a546</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 13:37:26</sys_created_on>
+        <sys_id>81648bafa86281107f4417e33ae5a5de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>lang</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2c590153a86241107f4417e33ae5a501</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2c590153a86241107f4417e33ae5a501</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_81648bafa86281107f4417e33ae5a5de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 13:37:26</sys_updated_on>
+        <value>${lang}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>

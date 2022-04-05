@@ -22,22 +22,22 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_cdltd_loaner_req</source>
-        <store_correlation_id>REPOAPP0000001002</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001003</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-04 10:00:38</sys_created_on>
         <sys_id>2c590153a86241107f4417e33ae5a501</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-05 10:44:27</sys_updated_on>
+        <sys_updated_on>2022-04-05 13:55:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>7.0.1</version>
+        <version>8.0.0</version>
     </sys_app>
 </record_update>
